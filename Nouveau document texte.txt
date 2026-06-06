@@ -1,0 +1,26 @@
+ .\.venv\Scripts\python.exe .\opc-py.py
+🎯 WINCC NODE TROUVÉ
+
+=== ENFANTS DE WinCC Panel RT ===
+
+--------------------
+BrowseName : QualifiedName(NamespaceIndex=2, Name='TargetInfos')
+DisplayName: LocalizedText(Locale='en_us', Text='TargetInfos')
+NodeId     : NodeId(Identifier=UUID('ecef81d5-c834-4379-ab79-c8fa3133a311'), NamespaceIndex=2, NodeIdType=<NodeIdType.Guid: 4>)
+   -> QualifiedName(NamespaceIndex=2, Name='$DeviceType') | NodeId(Identifier='DeviceType', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>)
+   -> QualifiedName(NamespaceIndex=2, Name='$HostName') | NodeId(Identifier='HostName', NamespaceIndex=2, NodeIdType=<NodeIdType.String: 3>)
+
+--------------------
+BrowseName : QualifiedName(NamespaceIndex=3, Name='Tags')
+DisplayName: LocalizedText(Locale='en_us', Text='Tags')
+NodeId     : NodeId(Identifier=UUID('ecef81d5-c834-4379-ab79-c8fa3133a311'), NamespaceIndex=3, NodeIdType=<NodeIdType.Guid: 4>)
+   -> QualifiedName(NamespaceIndex=3, Name='$@DiagnosticsIndicatorTag') | NodeId(Identifier='@DiagnosticsIndicatorTag', NamespaceIndex=3, NodeIdType=<NodeIdType.String: 3>)
+   -> QualifiedName(NamespaceIndex=3, Name='$R1-PH') | NodeId(Identifier='R1-PH', NamespaceIndex=3, NodeIdType=<NodeIdType.String: 3>)
+   -> QualifiedName(NamespaceIndex=3, Name='$R1-TCCY') | NodeId(Identifier='R1-TCCY', NamespaceIndex=3, NodeIdType=<NodeIdType.String: 3>)
+   -> QualifiedName(NamespaceIndex=3, Name='$R1-TOX') | NodeId(Identifier='R1-TOX', NamespaceIndex=3, NodeIdType=<NodeIdType.String: 3>)
+   -> QualifiedName(NamespaceIndex=3, Name='$R2-TCCY') | NodeId(Identifier='R2-TCCY', NamespaceIndex=3, NodeIdType=<NodeIdType.String: 3>)
+   -> QualifiedName(NamespaceIndex=3, Name='$R6-TCCY') | NodeId(Identifier='R6-TCCY', NamespaceIndex=3, NodeIdType=<NodeIdType.String: 3>)
+   -> QualifiedName(NamespaceIndex=3, Name='$R7-PH') | NodeId(Identifier='R7-PH', NamespaceIndex=3, NodeIdType=<NodeIdType.String: 3>)
+   -> QualifiedName(NamespaceIndex=3, Name='$R7-TOX') | NodeId(Identifier='R7-TOX', NamespaceIndex=3, NodeIdType=<NodeIdType.String: 3>)
+   -> QualifiedName(NamespaceIndex=3, Name='$Tag_1') | NodeId(Identifier='Tag_1', NamespaceIndex=3, NodeIdType=<NodeIdType.String: 3>)
+   -> QualifiedName(NamespaceIndex=3, Name='$Tag_2') | NodeId(Identifier='Tag_2', NamespaceIndex=3, NodeIdType=<NodeIdType.String: 3>)
